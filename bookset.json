@@ -1,0 +1,489 @@
+[
+  {
+    "id": 1,
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "price": 299,
+    "image": "https://covers.openlibrary.org/b/id/8091016-L.jpg"
+  },
+  {
+    "id": 2,
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic",
+    "price": 259,
+    "image": "https://covers.openlibrary.org/b/id/7222246-L.jpg"
+  },
+  {
+    "id": 3,
+    "name": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "price": 199,
+    "image": "https://covers.openlibrary.org/b/id/7222241-L.jpg"
+  },
+  {
+    "id": 4,
+    "name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Classic",
+    "price": 349,
+    "image": "https://covers.openlibrary.org/b/id/8228691-L.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "price": 499,
+    "image": "https://covers.openlibrary.org/b/id/7984916-L.jpg"
+  },
+  {
+    "id": 6,
+    "name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "price": 399,
+    "image": "https://covers.openlibrary.org/b/id/6979861-L.jpg"
+  },
+  {
+    "id": 7,
+    "name": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "price": 279,
+    "image": "https://covers.openlibrary.org/b/id/8231856-L.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Moby Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure",
+    "price": 299,
+    "image": "https://covers.openlibrary.org/b/id/555103-L.jpg"
+  },
+  {
+    "id": 9,
+    "name": "War and Peace",
+    "author": "Leo Tolstoy",
+    "genre": "Historical",
+    "price": 599,
+    "image": "https://covers.openlibrary.org/b/id/8319254-L.jpg"
+  },
+  {
+    "id": 10,
+    "name": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Philosophy",
+    "price": 299,
+    "image": "https://covers.openlibrary.org/b/id/8128694-L.jpg"
+  },
+  {
+    "id": 11,
+    "name": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "price": 349,
+    "image": "https://covers.openlibrary.org/b/id/240726-L.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Angels & Demons",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "price": 329,
+    "image": "https://covers.openlibrary.org/b/id/295654-L.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Inferno",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "price": 349,
+    "image": "https://covers.openlibrary.org/b/id/8228780-L.jpg"
+  },
+  {
+    "id": 14,
+    "name": "The Shining",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "price": 299,
+    "image": "https://covers.openlibrary.org/b/id/8231852-L.jpg"
+  },
+  {
+    "id": 15,
+    "name": "It",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "price": 499,
+    "image": "https://covers.openlibrary.org/b/id/8155417-L.jpg"
+  },
+  {
+    "id": 16,
+    "name": "The Fault in Our Stars",
+    "author": "John Green",
+    "genre": "Romance",
+    "price": 249,
+    "image": "https://covers.openlibrary.org/b/id/7269201-L.jpg"
+  },
+  {
+    "id": 17,
+    "name": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "genre": "Sci-Fi",
+    "price": 329,
+    "image": "https://covers.openlibrary.org/b/id/8101350-L.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Catching Fire",
+    "author": "Suzanne Collins",
+    "genre": "Sci-Fi",
+    "price": 329,
+    "image": "https://covers.openlibrary.org/b/id/8101351-L.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Mockingjay",
+    "author": "Suzanne Collins",
+    "genre": "Sci-Fi",
+    "price": 329,
+    "image": "https://covers.openlibrary.org/b/id/8101352-L.jpg"
+  },
+  {
+    "id": 20,
+    "name": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "genre": "Mystery",
+    "price": 349,
+    "image": "https://covers.openlibrary.org/b/id/7150811-L.jpg"
+  },
+  {
+    "id": 21,
+    "name": "The Girl Who Played with Fire",
+    "author": "Stieg Larsson",
+    "genre": "Mystery",
+    "price": 349,
+    "image": "https://covers.openlibrary.org/b/id/7281780-L.jpg"
+  },
+  {
+    "id": 22,
+    "name": "The Girl Who Kicked the Hornet's Nest",
+    "author": "Stieg Larsson",
+    "genre": "Mystery",
+    "price": 349,
+    "image": "https://covers.openlibrary.org/b/id/7329091-L.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "genre": "Self-Help",
+    "price": 199,
+    "image": "https://covers.openlibrary.org/b/id/11153207-L.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Rich Dad Poor Dad",
+    "author": "Robert Kiyosaki",
+    "genre": "Business",
+    "price": 249,
+    "image": "https://covers.openlibrary.org/b/id/240727-L.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self-Help",
+    "price": 399,
+    "image": "https://covers.openlibrary.org/b/id/11153208-L.jpg"
+  },
+  {
+    "id": 26,
+    "name": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "genre": "Self-Help",
+    "price": 349,
+    "image": "https://covers.openlibrary.org/b/id/7182420-L.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Sherlock Holmes: The Complete Novels",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "price": 449,
+    "image": "https://covers.openlibrary.org/b/id/8231994-L.jpg"
+  },
+  {
+    "id": 28,
+    "name": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "genre": "Biography",
+    "price": 229,
+    "image": "https://covers.openlibrary.org/b/id/8232223-L.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "genre": "History",
+    "price": 499,
+    "image": "https://covers.openlibrary.org/b/id/8373981-L.jpg"
+  },
+  {
+    "id": 30,
+    "name": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "genre": "Science",
+    "price": 349,
+    "image": "https://covers.openlibrary.org/b/id/240728-L.jpg"
+  },
+
+  /* ------- HINDI + MORE BOOKS (31–60) ------- */
+
+  {
+    "id": 31,
+    "name": "Godaan",
+    "author": "Munshi Premchand",
+    "genre": "Hindi Novel",
+    "price": 199,
+    "image": "https://covers.openlibrary.org/b/id/10523340-L.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Gaban",
+    "author": "Munshi Premchand",
+    "genre": "Hindi Novel",
+    "price": 189,
+    "image": "https://covers.openlibrary.org/b/id/12011527-L.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Gunahon Ka Devta",
+    "author": "Dharamveer Bharti",
+    "genre": "Hindi Romance",
+    "price": 179,
+    "image": "https://covers.openlibrary.org/b/id/10523343-L.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Madhushala",
+    "author": "Harivansh Rai Bachchan",
+    "genre": "Hindi Poetry",
+    "price": 149,
+    "image": "https://covers.openlibrary.org/b/id/10523341-L.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Raavan: Enemy of Aryavarta",
+    "author": "Amish Tripathi",
+    "genre": "Mythology",
+    "price": 349,
+    "image": "https://covers.openlibrary.org/b/id/11153210-L.jpg"
+  },
+  {
+    "id": 36,
+    "name": "The Immortals of Meluha",
+    "author": "Amish Tripathi",
+    "genre": "Mythology",
+    "price": 299,
+    "image": "https://covers.openlibrary.org/b/id/7269205-L.jpg"
+  },
+  {
+    "id": 37,
+    "name": "The Secret",
+    "author": "Rhonda Byrne",
+    "genre": "Self-Help",
+    "price": 299,
+    "image": "https://covers.openlibrary.org/b/id/8374001-L.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Wings of Fire",
+    "author": "A.P.J. Abdul Kalam",
+    "genre": "Autobiography",
+    "price": 249,
+    "image": "https://covers.openlibrary.org/b/id/10523330-L.jpg"
+  },
+  {
+    "id": 39,
+    "name": "The Monk Who Sold His Ferrari",
+    "author": "Robin Sharma",
+    "genre": "Self-Help",
+    "price": 249,
+    "image": "https://covers.openlibrary.org/b/id/8374010-L.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Ikigai",
+    "author": "Héctor García",
+    "genre": "Self-Help",
+    "price": 299,
+    "image": "https://covers.openlibrary.org/b/id/10882231-L.jpg"
+  },
+
+  {
+    "id": 41,
+    "name": "Shiva Trilogy Box Set",
+    "author": "Amish Tripathi",
+    "genre": "Mythology",
+    "price": 799,
+    "image": "https://covers.openlibrary.org/b/id/8114322-L.jpg"
+  },
+  {
+    "id": 42,
+    "name": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "genre": "Drama",
+    "price": 299,
+    "image": "https://covers.openlibrary.org/b/id/8228785-L.jpg"
+  },
+  {
+    "id": 43,
+    "name": "A Thousand Splendid Suns",
+    "author": "Khaled Hosseini",
+    "genre": "Drama",
+    "price": 349,
+    "image": "https://covers.openlibrary.org/b/id/8228784-L.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Norwegian Wood",
+    "author": "Haruki Murakami",
+    "genre": "Romance",
+    "price": 329,
+    "image": "https://covers.openlibrary.org/b/id/8232221-L.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Kafka on the Shore",
+    "author": "Haruki Murakami",
+    "genre": "Fantasy",
+    "price": 349,
+    "image": "https://covers.openlibrary.org/b/id/8232220-L.jpg"
+  },
+
+  {
+    "id": 46,
+    "name": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "genre": "Self-Help",
+    "price": 349,
+    "image": "https://covers.openlibrary.org/b/id/8374333-L.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Becoming",
+    "author": "Michelle Obama",
+    "genre": "Biography",
+    "price": 399,
+    "image": "https://covers.openlibrary.org/b/id/10523177-L.jpg"
+  },
+  {
+    "id": 48,
+    "name": "The Lean Startup",
+    "author": "Eric Ries",
+    "genre": "Business",
+    "price": 349,
+    "image": "https://covers.openlibrary.org/b/id/8374201-L.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Zero to One",
+    "author": "Peter Thiel",
+    "genre": "Business",
+    "price": 299,
+    "image": "https://covers.openlibrary.org/b/id/8374202-L.jpg"
+  },
+  {
+    "id": 50,
+    "name": "You Can Win",
+    "author": "Shiv Khera",
+    "genre": "Motivational",
+    "price": 199,
+    "image": "https://covers.openlibrary.org/b/id/10523300-L.jpg"
+  },
+
+  {
+    "id": 51,
+    "name": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "genre": "Finance",
+    "price": 349,
+    "image": "https://covers.openlibrary.org/b/id/11153212-L.jpg"
+  },
+  {
+    "id": 52,
+    "name": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "price": 799,
+    "image": "https://covers.openlibrary.org/b/id/8130361-L.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Dune",
+    "author": "Frank Herbert",
+    "genre": "Sci-Fi",
+    "price": 499,
+    "image": "https://covers.openlibrary.org/b/id/8114154-L.jpg"
+  },
+  {
+    "id": 54,
+    "name": "The Martian",
+    "author": "Andy Weir",
+    "genre": "Sci-Fi",
+    "price": 349,
+    "image": "https://covers.openlibrary.org/b/id/8374215-L.jpg"
+  },
+  {
+    "id": 55,
+    "name": "Frankenstein",
+    "author": "Mary Shelley",
+    "genre": "Horror",
+    "price": 199,
+    "image": "https://covers.openlibrary.org/b/id/8231854-L.jpg"
+  },
+
+  {
+    "id": 56,
+    "name": "Dracula",
+    "author": "Bram Stoker",
+    "genre": "Horror",
+    "price": 199,
+    "image": "https://covers.openlibrary.org/b/id/8231853-L.jpg"
+  },
+  {
+    "id": 57,
+    "name": "The Time Machine",
+    "author": "H.G. Wells",
+    "genre": "Sci-Fi",
+    "price": 149,
+    "image": "https://covers.openlibrary.org/b/id/10523345-L.jpg"
+  },
+  {
+    "id": 58,
+    "name": "The Invisible Man",
+    "author": "H.G. Wells",
+    "genre": "Sci-Fi",
+    "price": 149,
+    "image": "https://covers.openlibrary.org/b/id/10523346-L.jpg"
+  },
+  {
+    "id": 59,
+    "name": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Classic",
+    "price": 299,
+    "image": "https://covers.openlibrary.org/b/id/8231992-L.jpg"
+  },
+  {
+    "id": 60,
+    "name": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Classic",
+    "price": 349,
+    "image": "https://covers.openlibrary.org/b/id/8231990-L.jpg"
+  }
+]
